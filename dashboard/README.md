@@ -6,11 +6,13 @@ The solution extracts match data from FotMob, transforms and reconciles multiple
 
 ## Project Overview
 
-**Match:** Ghana vs Somalia  
-**Competition:** Africa Cup of Nations Qualification — Group C  
-**Date:** 12 November 2026  
-**Final Score:** Ghana 2–0 Somalia  
-**Primary Data Source:** FotMob
+| Detail | Description |
+|---|---|
+| Match | Ghana vs Somalia |
+| Competition | Africa Cup of Nations Qualification — Group C |
+| Date | 12 November 2026 |
+| Final Score | Ghana 2–0 Somalia |
+| Primary Data Source | FotMob |
 
 ### Objectives
 
@@ -29,8 +31,9 @@ ghana-somalia-afcon-etl/
 │
 ├── data/
 │   ├── raw/
-│   └── processed/
-│       └── match_intelligence/
+│   ├── processed/
+│   │   └── match_intelligence/
+│   └── database/
 │
 ├── src/
 │   ├── extract.py
@@ -43,18 +46,20 @@ ghana-somalia-afcon-etl/
 │   ├── analyse_match.py
 │   ├── build_match_timeline.py
 │   ├── build_match_intelligence.py
-│   └── validate_pipeline.py
+│   ├── validate_pipeline.py
+│   ├── validate_dashboard_data.py
+│   └── load.py
 │
 ├── dashboard/
-│   └── app.py
-│
-├── database/
+│   ├── app.py
+│   └── requirements.txt
 │
 ├── .streamlit/
 │   └── config.toml
 │
 ├── main.py
 ├── requirements.txt
+├── .gitignore
 └── README.md
 ```
 
@@ -64,7 +69,7 @@ ghana-somalia-afcon-etl/
 
 The extraction process retrieves match information from the FotMob match page.
 
-The extracted data includes:
+Extracted data includes:
 
 - Match facts
 - Team statistics
@@ -206,41 +211,50 @@ These checks validate the expected dataset structure and selected values; they s
 | Dashboard | Streamlit |
 | Development | VS Code, WSL Ubuntu |
 | Version control | Git, GitHub |
+| Database | SQLite |
 
-## Running the Dashboard
+## Running the Project
 
-Clone the repository:
-
-```bash
-git clone https://github.com/stephen1-hub/ghana-somalia-afcon-etl.git
-```
-
-Navigate into the project:
+### 1. Clone the repository
 
 ```bash
-cd ghana-somalia-afcon-etl
+git clone https://github.com/stephen1-hub/ghana-somalia-afcon-intelligence.git
 ```
 
-Create and activate a virtual environment:
+### 2. Navigate into the project
+
+```bash
+cd ghana-somalia-afcon-intelligence
+```
+
+### 3. Create and activate a virtual environment
 
 ```bash
 uv venv
 source .venv/bin/activate
 ```
 
-Install dependencies:
+### 4. Install dependencies
 
 ```bash
 uv pip install -r requirements.txt
 ```
 
-Launch the dashboard:
+### 5. Run the ETL pipeline
+
+```bash
+python main.py
+```
+
+### 6. Launch the dashboard
 
 ```bash
 streamlit run dashboard/app.py
 ```
 
 Open the local URL displayed in your terminal.
+
+**Data availability note:** Raw data, processed datasets and the SQLite database are excluded from the Git repository. A local data setup is therefore required before running the dashboard or reproducing the complete pipeline.
 
 ## Project Limitations
 
