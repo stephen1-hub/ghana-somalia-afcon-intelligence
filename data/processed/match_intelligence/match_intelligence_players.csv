@@ -1,0 +1,47 @@
+match_id,player_id,player_name,team_name,lineup_participation_status,minutes_played,Goals,Assists,FotMob rating,Total shots,Shots on target,Chances created,Big chances created,Tackles,Interceptions,Clearances,Blocks,Recoveries,Duels won,Ground duels won,Aerial duels won,Successful dribbles,Passes into final third,shot_accuracy_pct
+6040239,891743,Mohammed Kudus,Ghana,played,90.0,0.0,1.0,8.46,4.0,2.0,5.0,,1.0,0.0,0.0,0.0,,6.0,6.0,0.0,2.0,8.0,50.0
+6040239,1432344,Jonas Adjetey,Ghana,played,90.0,1.0,0.0,8.22,2.0,1.0,0.0,,0.0,0.0,3.0,0.0,,3.0,1.0,2.0,1.0,6.0,50.0
+6040239,938247,Mohammed Salisu,Ghana,played,90.0,0.0,1.0,8.17,3.0,1.0,1.0,1.0,0.0,0.0,5.0,0.0,,3.0,0.0,3.0,,4.0,33.33333333333333
+6040239,1177779,Alidu Seidu,Ghana,played,75.0,0.0,0.0,7.93,1.0,0.0,3.0,,2.0,0.0,0.0,0.0,,4.0,4.0,0.0,1.0,4.0,0.0
+6040239,771630,Gideon Mensah,Ghana,played,90.0,0.0,0.0,7.73,1.0,1.0,1.0,,0.0,4.0,3.0,1.0,,1.0,1.0,0.0,1.0,12.0,100.0
+6040239,1307980,Felix Afena-Gyan,Ghana,played,64.0,1.0,0.0,7.6,1.0,1.0,0.0,,1.0,0.0,0.0,0.0,,2.0,2.0,0.0,1.0,,100.0
+6040239,1806615,Benjamin Asare,Ghana,played,90.0,,,7.58,,,,,,,,,12.0,,,,,,
+6040239,1615927,Caleb Yirenkyi,Ghana,played,86.0,0.0,0.0,7.55,,,1.0,,0.0,0.0,0.0,0.0,,5.0,3.0,2.0,1.0,10.0,
+6040239,434325,Thomas Partey,Ghana,played,90.0,0.0,0.0,7.52,2.0,0.0,1.0,,1.0,0.0,1.0,0.0,,3.0,2.0,1.0,1.0,12.0,0.0
+6040239,1265626,Abdul Fatawu,Ghana,played,86.0,0.0,0.0,7.35,2.0,0.0,0.0,,2.0,1.0,0.0,0.0,,8.0,8.0,0.0,4.0,6.0,0.0
+6040239,620577,Daniel-Kofi Kyereh,Ghana,played,15.0,0.0,0.0,6.71,2.0,1.0,2.0,,0.0,0.0,0.0,0.0,,2.0,2.0,0.0,2.0,2.0,50.0
+6040239,154280,Jordan Ayew,Ghana,played,75.0,0.0,0.0,6.46,3.0,1.0,1.0,,0.0,0.0,0.0,0.0,,2.0,2.0,0.0,0.0,4.0,33.33333333333333
+6040239,1220633,Prince Adu,Ghana,played,26.0,0.0,0.0,6.45,1.0,0.0,0.0,,0.0,1.0,0.0,0.0,,1.0,1.0,0.0,1.0,1.0,0.0
+6040239,1396375,Ibrahim Sulemana,Ghana,played,15.0,0.0,0.0,6.45,,,1.0,,0.0,0.0,1.0,0.0,,1.0,,1.0,,1.0,
+6040239,1239580,Rahim Ibrahim,Ghana,played,4.0,0.0,0.0,,1.0,0.0,0.0,,1.0,0.0,0.0,0.0,,1.0,1.0,0.0,,,0.0
+6040239,776184,Brandon Thomas-Asante,Ghana,played,4.0,0.0,0.0,,,,0.0,,0.0,0.0,0.0,0.0,,,0.0,0.0,,,
+6040239,963812,Joseph Anang,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,615411,Lawrence Ati-Zigi,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,873227,Jerome Opoku,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1732815,Musa Hamzata,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1448046,Isaac Afful,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1211610,Augustine Boakye,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1215410,Ibrahim Osman,Ghana,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1581997,Ibrahim Ahmed Hussein,Somalia,played,90.0,,,7.39,,,,,,,,,10.0,,,,,,
+6040239,1766255,Mohamed Mohamed,Somalia,played,90.0,0.0,0.0,7.03,,,0.0,,7.0,2.0,1.0,1.0,,10.0,10.0,0.0,0.0,4.0,
+6040239,1080659,Abdulsamed Abdullahi,Somalia,played,90.0,0.0,0.0,6.55,,,0.0,,3.0,2.0,0.0,0.0,,4.0,4.0,0.0,,3.0,
+6040239,1189616,Abdi Sharif,Somalia,played,90.0,0.0,0.0,6.52,1.0,0.0,0.0,,3.0,0.0,5.0,1.0,,4.0,4.0,0.0,,6.0,0.0
+6040239,1780439,Mubashir Nour,Somalia,played,85.0,0.0,0.0,6.06,1.0,1.0,0.0,,2.0,0.0,0.0,0.0,,5.0,4.0,1.0,0.0,,100.0
+6040239,1730770,Abdulle Abdullahi,Somalia,played,15.0,0.0,0.0,6.06,,,0.0,,1.0,0.0,1.0,0.0,,2.0,2.0,0.0,,,
+6040239,1057940,Ali Musse,Somalia,played,21.0,0.0,0.0,6.01,,,1.0,,0.0,0.0,0.0,0.0,,,,0.0,,,
+6040239,965436,Ali Omar,Somalia,played,90.0,0.0,0.0,6.0,,,0.0,,1.0,0.0,5.0,1.0,,5.0,3.0,2.0,,6.0,
+6040239,1430856,Faisal Othman,Somalia,played,75.0,0.0,0.0,5.96,,,0.0,,1.0,1.0,1.0,1.0,,4.0,2.0,2.0,,4.0,
+6040239,1125735,Sakariya Hassan,Somalia,played,85.0,0.0,0.0,5.89,1.0,1.0,0.0,,2.0,1.0,0.0,0.0,,6.0,6.0,0.0,1.0,1.0,100.0
+6040239,193179,Abel Gigli,Somalia,played,90.0,0.0,0.0,5.71,,,0.0,,1.0,1.0,5.0,1.0,,1.0,1.0,0.0,,6.0,
+6040239,876446,Bilal Njie,Somalia,played,90.0,0.0,0.0,5.68,,,0.0,,0.0,0.0,0.0,0.0,,1.0,0.0,1.0,,1.0,
+6040239,441624,Moussa Njie,Somalia,played,,,,,,,,,,,,,,,,,,,
+6040239,686106,Mohamud Ali Mohamed,Somalia,played,5.0,0.0,0.0,,,,0.0,,1.0,1.0,0.0,0.0,,1.0,1.0,0.0,,2.0,
+6040239,1582031,Issa Adam,Somalia,played,5.0,0.0,0.0,,,,0.0,,1.0,0.0,0.0,0.0,,1.0,1.0,0.0,,,
+6040239,1650615,Abdirahman Mohamud Jama,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,2454058,Khalid Mohamed Nor,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1089501,Abdiwali Walić,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1581994,Ahmed Abdullahi Abdi,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,2454061,Jarma Abdi,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1807899,Mohamed Ahmed Osman,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,1310100,Mukhtar Suleiman,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,
+6040239,411584,Osman Mohammed,Somalia,unused_substitute,,,,,,,,,,,,,,,,,,,

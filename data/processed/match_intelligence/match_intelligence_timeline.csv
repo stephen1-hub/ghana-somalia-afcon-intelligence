@@ -1,0 +1,16 @@
+event_sequence,display_minute,event_type,team_name,player_name,incoming_player,outgoing_player,event_description,score_after_event
+1,14,MissedPenalty,Ghana,Jordan Ayew,,,PENALTY MISSED - Jordan Ayew (Ghana),0 - 0
+2,14,Card,Somalia,Abdi Sharif,,,Yellow CARD - Abdi Sharif (Somalia),0 - 0
+3,45 + 2,Goal,Ghana,Jonas Adjetey,,,GOAL - Jonas Adjetey (Ghana),1 - 0
+4,45,Half,,,,,HT,1 - 0
+5,62,Goal,Ghana,Felix Afena-Gyan,,,GOAL - Felix Afena-Gyan (Ghana),2 - 0
+6,64,Substitution,Ghana,,Prince Adu,Felix Afena-Gyan,"SUBSTITUTION - Ghana: Prince Adu ON, Felix Afena-Gyan OFF",2 - 0
+7,69,Substitution,Somalia,,Ali Musse,Moussa Njie,"SUBSTITUTION - Somalia: Ali Musse ON, Moussa Njie OFF",2 - 0
+8,75,Substitution,Ghana,,Daniel-Kofi Kyereh,Jordan Ayew,"SUBSTITUTION - Ghana: Daniel-Kofi Kyereh ON, Jordan Ayew OFF",2 - 0
+9,75,Substitution,Ghana,,Ibrahim Sulemana,Alidu Seidu,"SUBSTITUTION - Ghana: Ibrahim Sulemana ON, Alidu Seidu OFF",2 - 0
+10,75,Substitution,Somalia,,Abdulle Abdullahi,Faisal Othman,"SUBSTITUTION - Somalia: Abdulle Abdullahi ON, Faisal Othman OFF",2 - 0
+11,85,Substitution,Somalia,,Issa Adam,Mubashir Nour,"SUBSTITUTION - Somalia: Issa Adam ON, Mubashir Nour OFF",2 - 0
+12,85,Substitution,Somalia,,Mohamud Ali Mohamed,Sakariya Hassan,"SUBSTITUTION - Somalia: Mohamud Ali Mohamed ON, Sakariya Hassan OFF",2 - 0
+13,86,Substitution,Ghana,,Rahim Ibrahim,Caleb Yirenkyi,"SUBSTITUTION - Ghana: Rahim Ibrahim ON, Caleb Yirenkyi OFF",2 - 0
+14,86,Substitution,Ghana,,Brandon Thomas-Asante,Abdul Fatawu,"SUBSTITUTION - Ghana: Brandon Thomas-Asante ON, Abdul Fatawu OFF",2 - 0
+15,90,Half,,,,,FT,2 - 0

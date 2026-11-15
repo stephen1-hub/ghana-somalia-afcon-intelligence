@@ -1,0 +1,57 @@
+{
+    "match_information": {
+        "match_id": 6040239,
+        "competition": "Africa Cup of Nations Qualification Grp. C",
+        "date": "2026-11-12",
+        "home_team": "Ghana",
+        "away_team": "Somalia",
+        "home_score": 2,
+        "away_score": 0,
+        "result": "Ghana win",
+        "status": "Finished"
+    },
+    "team_performance": {
+        "possession": {
+            "Ghana": 76.0,
+            "Somalia": 24.0
+        },
+        "total_shots": {
+            "Ghana": 23.0,
+            "Somalia": 3.0
+        },
+        "shots_on_target": {
+            "Ghana": 8.0,
+            "Somalia": 2.0
+        },
+        "opposition_box_touches": {
+            "Ghana": 44.0,
+            "Somalia": 8.0
+        },
+        "pass_accuracy": {
+            "Ghana": 89.0,
+            "Somalia": 57.0
+        }
+    },
+    "defensive_performance": {
+        "tackles": {
+            "Ghana": 8.0,
+            "Somalia": 24.0
+        },
+        "interceptions": {
+            "Ghana": 6.0,
+            "Somalia": 8.0
+        },
+        "clearances": {
+            "Ghana": 14.0,
+            "Somalia": 18.0
+        }
+    },
+    "data_inventory": {
+        "team_metrics": 14,
+        "half_performance_records": 9,
+        "player_records": 46,
+        "attacking_records": 31,
+        "defensive_records": 31,
+        "timeline_events": 15
+    }
+}
